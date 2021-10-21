@@ -1,7 +1,9 @@
 'use strict';
 
+/*
 'fgrger'// ->примітив
 'fgrger'.toUpperCase //-> при застосуванні методу це вже обєкт
+*/
 
 let str = 'some';
 let strObj = new String(str);
